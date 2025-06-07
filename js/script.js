@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 const body = document.body;
 const darkToggle = document.createElement('button');
 darkToggle.id = "darkModeToggle";
