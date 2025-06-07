@@ -301,6 +301,10 @@ nav a:focus-visible {
   width: 20px;
   height: 20px;
 }
+body.dark-mode .checklist li {
+  color: #fff;
+  background: #232e34;
+}
 
 /* PACKING LIST ICONS */
 .packing-list {
